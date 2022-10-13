@@ -1,4 +1,5 @@
 # Sms Eye
+<img src="/Preview/SmsEyePreview.png" width="20%" />
 #### This software is made for educational purposes only !
 Sms Eye is a software for spying on Android SMS, every time the victim device receives a new SMS, Sms Eye will forward it to your Telegram bot.
 
