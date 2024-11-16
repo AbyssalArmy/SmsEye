@@ -79,8 +79,8 @@ wait for process to finish and your app is ready !
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 
-## [Admin](https://t.me/abyssaladmin) for support
+## [Admin](https://t.me/abyssalarmyadmin) for support
 #### Message the admin on Telegram to ask questions and get support:
-<a href="https://t.me/abyssaladmin">
+<a href="https://t.me/abyssalarmyadmin">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
